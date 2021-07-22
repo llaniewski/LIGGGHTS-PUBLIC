@@ -90,6 +90,8 @@
 #include <vtkMPI.h>
 #include <vtkMPICommunicator.h>
 #include <vtkMPIController.h>
+#include <vtkMPI.h>
+#include <vtkMPICommunicator.h>
 
 // For compatibility with new VTK generic data arrays (VTK >= 7.0)
 #ifdef vtkGenericDataArray_h
